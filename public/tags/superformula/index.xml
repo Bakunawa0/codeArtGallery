@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>superformula on Code Art Gallery</title>
+    <link>/tags/superformula/</link>
+    <description>Recent content in superformula on Code Art Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/superformula/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Provoke</title>
+      <link>/provoke/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/provoke/</guid>
+      <description>&lt;p&gt;Move your mouse around and see the form react. Consider how it might be feeling; read it.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Anticipation</title>
+      <link>/anticipation/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/anticipation/</guid>
+      <description>&lt;p&gt;An eye-shaped piece. The first piece I ever did.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
