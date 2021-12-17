@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Code Art Gallery</title>
+    <link>/</link>
+    <description>Recent content in Home on Code Art Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Titular Gallery</title>
+      <link>/post/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/</guid>
+      <description>Welcome to the art part of the art gallery of code art. Art.</description>
+    </item>
+    
+    <item>
+      <title>Ramblings</title>
+      <link>/ramblings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ramblings/</guid>
+      <description>I&amp;rsquo;m not a fan of social media. This is why you won&amp;rsquo;t find any personal links on this site: I don&amp;rsquo;t have any. I still wanna say things though, just not so publicly.</description>
+    </item>
+    
+    <item>
+      <title>Would you believe this site was made in 2020?</title>
+      <link>/in_memoriam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/in_memoriam/</guid>
+      <description>Times have surely changed. I assure you, this site won&amp;rsquo;t look like that again.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,82 @@
+baseURL: /
+languageCode: en-us
+defaultContentLanguage: en
+title: Code Art Gallery
+theme: cupper-hugo-theme
+#googleAnalytics: UA-123456789-1
+#disqusShortname: yourdiscussshortname
+#enableGitInfo: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+
+imaging:
+  quality: 99
+
+params:
+  description: The place where bakunawa0's generative art goes. You may also find nonsense.
+  homeMetaContent: The place where bakunawa0's generative art goes. You may also find nonsense.
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat: Jan 2, 2006
+  codePenUser: someUser
+  katex: true
+  hideHeaderLinks: false
+  search: true
+  showThemeSwitcher: false
+  defaultDarkTheme: true
+  moveFooterToHeader: false
+  navTitleText: Let Computers Draw
+  logoAlt: An alternative text description of the logo
+  #customCss:
+    #- css/custom_01.css
+    #- css/custom_02.css
+  #customJs:
+    #- js/custom_01.js
+    #- js/custom_02.js
+
+menu:
+  nav:
+    - name: gallery
+      url: /post/
+      weight: 1
+    - name: in memoriam
+      url: /in_memoriam/
+      weight: 2
+    - name: ramblings
+      url: /ramblings/
+      weight: 3
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
