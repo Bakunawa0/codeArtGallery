@@ -19,7 +19,7 @@ imaging:
 params:
   description: The place where bakunawa0's generative art goes. You may also find nonsense.
   homeMetaContent: The place where bakunawa0's generative art goes. You may also find nonsense.
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
+  footer: Made with [Hugo](https://gohugo.io/). Art by [Bakunawa0](https://github.com/Bakunawa0/). Deployed to [Netlify](https://www.netlify.com/).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: someUser
