@@ -9,4 +9,4 @@ a playground of pareidolia.
 <!--more-->
 Might take a while to load on mobile devices.
 
-[See it](https://bakunawa0.github.io/code-art-gallery/rorschach/).
+[See it](/code/rorschach/).
