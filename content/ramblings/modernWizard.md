@@ -55,4 +55,5 @@ This comparison interests me because of how ubiquitous computers are these days.
 Because of this, the code programmers write has real effects on the real world. Just as a wizard alters the list of truths about a tree to turn 
 its leaves pink, programmers can alter the world with the right know-how and a computer. Wizards -- in the magical sense -- never existed, but 
 programmers seem to fit the bill today. Perhaps subconsciously, even non-programmers have made the connection. On more than one occassion people have called what I do "magic".
+
 I suppose -- in a way -- they're right.
