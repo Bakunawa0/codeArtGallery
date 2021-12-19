@@ -43,11 +43,11 @@ menu:
     - name: gallery
       url: /post/
       weight: 1
-    - name: in memoriam
-      url: /in_memoriam/
-      weight: 2
     - name: ramblings
       url: /ramblings/
+      weight: 2
+    - name: in memoriam
+      url: /in_memoriam/
       weight: 3
 
 markup:
