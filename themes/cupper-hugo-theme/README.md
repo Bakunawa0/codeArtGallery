@@ -1,7 +1,9 @@
-# Cupper
+# Cupper-Personal
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bc8c4e51-37ee-419d-ad4f-b378010ee546/deploy-status)](https://app.netlify.com/sites/cupper-hugo-theme/deploys)
 
+I needed to make modifications to this theme, which is why it is not a submodule. Frankly, given the changes I needed to make
+it is absurd that this was necessary.
 An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
 
 ## Table of contents
