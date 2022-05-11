@@ -8,4 +8,4 @@ I don't know what to call these things. Fish? Birds? Anyway, just click and drag
 
 Doesn't work so well on mobile.
 
-[See it](/code/Unwelcome/).
+[See it](/codeArtGallery/code/Unwelcome/).

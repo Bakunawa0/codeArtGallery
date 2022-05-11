@@ -6,4 +6,4 @@ tags : ["superformula", "interactive", "black & white"]
 
 Move your mouse around and see the form react. Consider how it might be feeling; read it.
 <!--more-->
-[See it](/code/Provoke/).
+[See it](/codeArtGallery/code/Provoke/).

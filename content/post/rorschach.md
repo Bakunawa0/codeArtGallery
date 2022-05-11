@@ -9,4 +9,4 @@ a playground of pareidolia.
 <!--more-->
 Might take a while to load on mobile devices.
 
-[See it](/code/rorschach/).
+[See it](/codeArtGallery/code/rorschach/).

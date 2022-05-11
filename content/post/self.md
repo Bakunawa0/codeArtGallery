@@ -6,4 +6,4 @@ tags : ["image processing"]
 
 A picture of me rasterized with circles. They grow and shrink according to a sine function.
 <!--more-->
-[See it](/code/Self/).
+[See it](/codeArtGallery/code/Self/).
